@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "scan.nextLine() after scan.nextInt() in Java"
-date:   2019-02-25 22:43:59
+date:   2019-02-27 22:43:59
 author: Jane Hyunji Lee
 categories: Java
 tags:	Java, nextInt(), nextLine(), Scanner
@@ -12,10 +12,9 @@ If you use the nextLine() method immediately following the nextInt() method, rec
 
 For example, if the input is
 
-`23
-23.5
-23.5 is double and 23 is integar number.
-`
+`23`
+`23.5`
+`23.5 is double and 23 is integar number.`
 ```
 import java.util.Scanner;
 public class Solution{
@@ -33,10 +32,9 @@ public class Solution{
 ```
 The output of above code will be
 `
-String: 
-Double: 23.5
-Int: 23
-`
+`String: `
+`Double: 23.5`
+`Int: 23`
 ```
 import java.util.Scanner;
 public class Solution{
@@ -54,9 +52,9 @@ public class Solution{
 }
 ```
 The output of above code will be
-`
-String: 23.5 is double and 23 is integar number.
-Double: 23.5
-Int: 23
-`
+
+`String: 23.5 is double and 23 is integar number.`
+`Double: 23.5`
+`Int: 23`
+
 scan.nextLine() get ‘\n’ so String s can take whole sentence.
