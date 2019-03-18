@@ -56,7 +56,7 @@ public class Solution{
 The output of above code will be
 
 `String: 23.5 is double and 23 is integar number.`  
-`Double: 23.5                                    ` 
+`Double: 23.5                                    `   
 `Int: 23                                         `   
 
 scan.nextLine() get ‘\n’ so String s can take whole sentence.
