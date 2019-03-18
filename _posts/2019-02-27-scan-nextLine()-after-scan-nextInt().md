@@ -12,9 +12,10 @@ If you use the nextLine() method immediately following the nextInt() method, rec
 
 For example, if the input is
 
-`23  
-23.5  
-23.5 is double and 23 is integar number.`
+`23`<br/>
+`23.5`<br/> 
+`23.5 is double and 23 is integar number.`<br/>
+
 ```
 import java.util.Scanner;
 public class Solution{
@@ -32,9 +33,10 @@ public class Solution{
 ```
 The output of above code will be
 `
-`String:   
-Double: 23.5   
-Int: 23`
+`String:`<br/>   
+`Double: 23.5`<br/>   
+`Int: 23`<br/>
+
 ```
 import java.util.Scanner;
 public class Solution{
@@ -53,8 +55,8 @@ public class Solution{
 ```
 The output of above code will be
 
-`String: 23.5 is double and 23 is integar number.   
-Double: 23.5   
-Int: 23`
+`String: 23.5 is double and 23 is integar number.`<br/>
+`Double: 23.5`<br/>
+`Int: 23`<br/>
 
 scan.nextLine() get ‘\n’ so String s can take whole sentence.
