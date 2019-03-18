@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Difference Between Abstract class and Interface in Java"
-date:   2019-02-12 11:43:59
+date:   2019-02-12 20:43:59
 author: Jane Hyunji Lee
 categories: Java
 tags:	Abstract class, Abstraction, Interface, Java
