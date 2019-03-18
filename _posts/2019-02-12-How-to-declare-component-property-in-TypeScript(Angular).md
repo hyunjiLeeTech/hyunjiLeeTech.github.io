@@ -10,7 +10,7 @@ cover:
 
 There are 2 ways to declare property in TypeScript.Not declare type.
 
-1. Not declare type
+### Not declare type
 
 -  Not declare type and value
 
@@ -40,7 +40,7 @@ export class AppComponent{
 
 You cannot change the data type. When you declare the variable, you already initialize the value. When you initialize value, the variable’s data type is automatically decided. Therefore, when you declare different data type, ‘Type ‘2’ is not assignable to type ‘String” is occurred.
 
-2. Declare type
+### Declare type
 
 ```
 export class AppComponent{
