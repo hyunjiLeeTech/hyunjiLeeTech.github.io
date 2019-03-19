@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to parse String in Java"
-date: 2019-03-19 13:55:10
+date: 2019-03-19 14:09:10
 author: Jane Hyunji Lee
 categories: Java
 tags: Java, Parse String
@@ -21,7 +21,7 @@ while(token.hasMoreToken()){
 }
 
 ```
-The output is
+The output is  
 `This`  
 `is`  
 `example`  
@@ -40,7 +40,7 @@ while(s.hasNext()) {
     System.out.println(s.next());
 }
 ```
-The output is
+The output is  
 `This`  
 `is`  
 `example`  
