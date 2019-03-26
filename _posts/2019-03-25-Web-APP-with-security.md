@@ -3,7 +3,7 @@ layout: post
 title: "Web APP with security"
 date: 2019-03-25 23:52:10
 author: Jane Hyunji Lee
-categories: Web Programming
+categories: Programming
 tags: web, security, AAA 
 ---
 Remember these 3 A when we think about security in web programming.
