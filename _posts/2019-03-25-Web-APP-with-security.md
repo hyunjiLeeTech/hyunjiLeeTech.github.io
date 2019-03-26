@@ -4,17 +4,17 @@ title: "Web APP with security"
 date: 2019-03-25 23:52:10
 author: Jane Hyunji Lee
 categories: Web Programming
-tags: web, security, AAA
+tags: web, security, AAA 
 ---
 Remember these 3 A when we think about security in web programming.
 ### A (Accounting)
-- user accounting
-- identity
-- registration
+- User accounting
+- Identity
+- Registration
   
 ### A (Authentication) 
-- answer who you are
-- login
+- Answer who you are
+- Login
   
 ### A (Authorization)
-- what resources can you access
+- What resources can you access
