@@ -15,7 +15,7 @@ Java thread creation is expensive because there is a fair bit of work involved.
 - Descriptors needs to be created, initialized and added to JVM internal data stuctures.
 
 Above information is from below links.  
-[Rirst Paragraph][Overhead]
+[First Paragraph][Overhead]  
 [Second Paragraph][ThreadExpensive]
 
 [Overhead]:         https://stackoverflow.com/questions/20696213/addition-of-integer-2d-array-elements-using-multi-threading-in-java-slower-than  
