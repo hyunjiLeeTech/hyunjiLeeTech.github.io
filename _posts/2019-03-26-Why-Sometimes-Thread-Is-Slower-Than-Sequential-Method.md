@@ -14,6 +14,9 @@ Java thread creation is expensive because there is a fair bit of work involved.
 - System calls need to be made to create / register the native thread with the host OS.
 - Descriptors needs to be created, initialized and added to JVM internal data stuctures.
 
-Above information is from below links.
-https://stackoverflow.com/questions/20696213/addition-of-integer-2d-array-elements-using-multi-threading-in-java-slower-than
-https://stackoverflow.com/questions/5483047/why-is-creating-a-thread-said-to-be-expensive
+Above information is from below links.  
+[Rirst Paragraph][Overhead]
+[Second Paragraph][ThreadExpensive]
+
+[Overhead]:         https://stackoverflow.com/questions/20696213/addition-of-integer-2d-array-elements-using-multi-threading-in-java-slower-than  
+[ThreadExpensive]:  https://stackoverflow.com/questions/5483047/why-is-creating-a-thread-said-to-be-expensive
