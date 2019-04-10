@@ -17,4 +17,6 @@ DSPATR(PC) - Position Cursor
 DSPATR(PR) - Protection  
   
     
-reference: http://www.go4as400.com/chapterload.aspx?cid=120
+reference: [http://www.go4as400.com/chapterload.aspx?cid=120][AS/400]
+
+[AS/400]:         http://www.go4as400.com/chapterload.aspx?cid=120
