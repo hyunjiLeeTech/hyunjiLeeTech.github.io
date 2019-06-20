@@ -7,7 +7,6 @@ categories: PowerShell
 tags: PowerShell
 ---
 
-Why we should learn PowerShell
 1. PowerShell provides command-line tools for Windows administrators
 - Similar to the tools that UNIX/Liux admins have utilized for many years
 - Add functionalities (Based on Windows operating system, .NET Framework)
