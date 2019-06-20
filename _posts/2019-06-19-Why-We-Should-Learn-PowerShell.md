@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Why We Should Learn PowerShell"
-date: 2019-04-09 20:41:10
+title: "Why we should learn PowerShell"
+date: 2019-06-19 10:39:10
 author: Jane Hyunji Lee
 categories: PowerShell
 tags: PowerShell
