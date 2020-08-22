@@ -21,8 +21,9 @@ The Butteraugli is the project Google created. It estimates the psychovisual sim
 ### Build and Compile the Open Source Package
 ##### 1. Clone the repository into my machine. 
 The command is the following:
+```
       git clone https://github.com/google/butteraugli.git
-
+```
 
 
 ##### 2. Compile the software
@@ -63,7 +64,11 @@ To apply different optimization levels, I need to modify the 'Makefile'.
 ```
 
 ##### 2. Modify the file to apply optimization level O2
-The image below is the original content when you clone the repository.
+The way to check the original content when you clone the repository is the following.
+```
+    cd butterguali
+    make
+```
 
 
 You should put the optimization level in the 'CSSFLAGS' part. For example, if you want to apply -O2, you should enter
@@ -74,12 +79,11 @@ You should put the optimization level in the 'CSSFLAGS' part. For example, if yo
 ##### 3. Recompile the software
 If you have not compiled yet, enter 'make' let you compile the software. However, if you already have compiled, it does not let you clear (command: make clean)or recompiled (command: 'make' or 'make all') the software even though you enter 'make clean'. 
 
-
-
 In this case, there is one way you can recompile this project. After you remove the generated files you got when you compiled the software, it allows you to recompile the software. There are two generated files named 'butteraugli_main.o' and 'butteraugli.o'. The command to remove those files and compile the software are the following:
+```
    rm butteraugli_main.o butteraugli.o
    make
-
+```
 
 Now the optimization level is successfully applied. You can repeat these steps when you want to change the optimization level.
 
