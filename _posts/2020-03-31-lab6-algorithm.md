@@ -93,7 +93,9 @@ I have found that even though the algorithm and architecture are the same, the p
 
 ### What is the Relative Memory Usage of Each Program?
 I used the following command to look at the memory usage of each program:
+```
      free -m
+```
 There are other commands to check the memory usage such as '/proc/meminfo', 'vmstat -s', and 'top'. However, I used free command because it allows me to simply check the memory usage. The description of the commands are written here: 5 commands to check memory usage on Linux.
 
 #### Memory Usage on Aarch64 Architecture

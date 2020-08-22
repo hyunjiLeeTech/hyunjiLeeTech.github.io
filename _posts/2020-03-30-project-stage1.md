@@ -4,7 +4,7 @@ title: "Project Stage 1 - Compiling and Benchmark Butteraugli"
 date: 2020-03-30 10:39:10
 author: Jane Hyunji Lee
 categories: ['SPO600', 'Butteraugli Optimization']
-tags: ['SPO600']
+tags: ['SPO600', 'Butteraugli']
 permalink: /project-stage1-compiling-and-benchmark
 ---
 ### Introduction
