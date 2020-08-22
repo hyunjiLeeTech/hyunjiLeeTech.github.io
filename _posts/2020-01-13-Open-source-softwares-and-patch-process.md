@@ -3,8 +3,9 @@ layout: post
 title: "Open Source Softwares and Patch Process"
 date: 2020-01-13 10:39:10
 author: Jane Hyunji Lee
-categories: 'Open Source Software'
-tags: 'Open Source Software'
+categories: "Open Source Software"
+tags: 'Open Source'
+permalink: /open-source-softwares-and-patch-process
 ---
 
 ### What is Open Source 
