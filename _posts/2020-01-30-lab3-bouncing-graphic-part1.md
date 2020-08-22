@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Lab 2: 6502 Assembly Language"
-date: 2020-01-16 10:39:10
+title: "Lab 3: Bouncing Graphic (Part1 - Calculate Pointer)"
+date: 2020-01-30 10:39:10
 author: Jane Hyunji Lee
 categories: ['SPO600', '6502 Assembly']
-tags: ['SPO600', 'Lab2']
-permalink: /lab2-6502-assembly-language
+tags: ['SPO600', 'Lab3']
+permalink: /lab3-bouncing-graphic-part1-calculate-pointer
 ---
 ### Lab 3 Instruction
 The option my group choose is bouncing graphic. The instructions of this option are the following:
