@@ -9,7 +9,7 @@ permalink: /lab3-bouncing-graph-drawing-and-moving-graph
 ---
 
 ### Introduction
-In this post, I will show how can I write a code to draw and move graphic (in this posting, it is a ball. You can change the shape by changing the subroutine ball's dcb). This is the previous step of the lab 3 (the instruction of Lab 3 is written below). You can understand more about this posting if you read my previous posting Lab 3: Bouncing Graphic (Part 1 - Calculate Pointer) before you read it. The improvement part of this posting is related to the previous posting. 
+In this post, I will show how can I write a code to draw and move graphic (in this posting, it is a ball. You can change the shape by changing the subroutine ball's dcb). This is the previous step of the lab 3 (the instruction of Lab 3 is written below). You can understand more about this posting if you read my previous posting [Lab 3: Bouncing Graphic (Part 1 - Calculate Pointer)][lab3-Bouncing graphic part1] before you read it. The improvement part of this posting is related to the previous posting. 
 
 ### Lab 3 Instruction
 The option my group chooses is the bouncing graphic. The instructions for this option are the following:
@@ -180,3 +180,5 @@ The following functions will be applied to the next code:
 
 #### 5. What I have learned from this lab
 I have learned the power of teamwork again through this lab. When I have done the calculating pointer part in the previous posting, I showed my code and explained how it works for my team. A few weeks later, one of the team members completed to move and bounce the graphic part. When I looked at his code, I felt the calculating part was not a big deal if I follow his code. That is a more efficient way to get the position so I followed his way to do it in this posting. There are lots of ways to get a certain result. I have learned I should not have stuck in one way.
+
+[lab3-Bouncing graphic part1]: https://hyunjileetech.github.io/lab3-bouncing-graphic-part1-calculate-pointer
