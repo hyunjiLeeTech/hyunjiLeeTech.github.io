@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}/assets/profile.jpg" title="Profile Picture" class="profile">
 
-Hello! I'm Jane Hyunji Lee who is a student from Seneca College in Computer Programming and Analysis. During 3 semesters, I have learned about object-oriented, web, and database programming. I especially have an interest about developing website but other things such as Andriod app, IOS app, and deep learning also give me some interest! 
+Hello! I'm Jane Hyunji Lee who is a student from Seneca College in Computer Programming and Analysis. During 6 semesters, I have learned about object-oriented, web, and database programming. I especially have an interest about developing website!
 
 <!-- Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
 
