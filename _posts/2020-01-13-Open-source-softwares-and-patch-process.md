@@ -3,7 +3,7 @@ layout: post
 title: "Open Source Softwares and Patch Process"
 date: 2020-01-13 10:39:10
 author: Jane Hyunji Lee
-categories: ['Open Source Software']
+categories: ['Open Source Software', 'SPO600']
 tags: ['Open Source Software']
 permalink: /open-source-softwares-and-patch-process
 ---
@@ -53,5 +53,3 @@ The advantage of this process is the efficiency of usage. Users can look at all 
 [Licences]: https://tldrlegal.com/
 [Bugzilla]: https://bugzilla.mozilla.org/home]
 [Mozilla Wiki]: https://wiki.mozilla.org/
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
