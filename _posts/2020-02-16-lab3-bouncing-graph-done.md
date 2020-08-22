@@ -31,7 +31,7 @@ The option my group choose is bouncing graphic. The instructions of this option 
 ##### 1.2. Flow Chart
 
 <!-- ![lab3-flow chart v3](https://lh3.googleusercontent.com/8PZTSkZG93GKQuEfHP5EJnFe1Djnw6S_Ydog3lLpisOsk6be41C9y-HIMPEs27O-frhSZ3VOZQqWGi8X8ylULlro5H7xWuv0W3NiiNi-Wz4EO2PeHC_dzzzAVTsFDjyURwx2w2P6cw){ height="50%" width="50%" } -->
-[<img alt="lab3-flow chart v3" src="https://lh3.googleusercontent.com/8PZTSkZG93GKQuEfHP5EJnFe1Djnw6S_Ydog3lLpisOsk6be41C9y-HIMPEs27O-frhSZ3VOZQqWGi8X8ylULlro5H7xWuv0W3NiiNi-Wz4EO2PeHC_dzzzAVTsFDjyURwx2w2P6cw" width="50px" height="50px">](https://lh3.googleusercontent.com/8PZTSkZG93GKQuEfHP5EJnFe1Djnw6S_Ydog3lLpisOsk6be41C9y-HIMPEs27O-frhSZ3VOZQqWGi8X8ylULlro5H7xWuv0W3NiiNi-Wz4EO2PeHC_dzzzAVTsFDjyURwx2w2P6cw)
+[<img alt="lab3-flow chart v3" src="https://lh3.googleusercontent.com/8PZTSkZG93GKQuEfHP5EJnFe1Djnw6S_Ydog3lLpisOsk6be41C9y-HIMPEs27O-frhSZ3VOZQqWGi8X8ylULlro5H7xWuv0W3NiiNi-Wz4EO2PeHC_dzzzAVTsFDjyURwx2w2P6cw" width="90px" height="256px">](https://lh3.googleusercontent.com/8PZTSkZG93GKQuEfHP5EJnFe1Djnw6S_Ydog3lLpisOsk6be41C9y-HIMPEs27O-frhSZ3VOZQqWGi8X8ylULlro5H7xWuv0W3NiiNi-Wz4EO2PeHC_dzzzAVTsFDjyURwx2w2P6cw)
 
 
 #### 2. Implementation 
