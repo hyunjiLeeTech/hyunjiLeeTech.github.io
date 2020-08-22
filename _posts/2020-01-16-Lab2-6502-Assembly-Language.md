@@ -3,7 +3,7 @@ layout: post
 title: "Lab 2: 6502 Assembly Language"
 date: 2020-01-16 10:39:10
 author: Jane Hyunji Lee
-categories: ['SPO600']
+categories: ['SPO600', '6502 Assembly']
 tags: ['SPO600', 'Lab2']
 permalink: /lab2-6502-assembly-language
 ---
