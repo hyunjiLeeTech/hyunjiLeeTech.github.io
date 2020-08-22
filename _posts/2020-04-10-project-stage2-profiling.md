@@ -28,7 +28,7 @@ The detailed process of how to use gprof and perf for Butteraugli profiling is d
 ![](https://lh3.googleusercontent.com/W_Zry9jzBos5ou5tmrUgYO29LB874qLQ6OVSEkUQyO1eJsxU5isWJoNrkEW_T_lT7sPSyQXZ0aWsPVeDtqfHvwRg7_mvDOioZ_XjMVeiN6_LMNM9przd_zYtIsJ8ERUr2tp4-dbinQ)
 
 #### Image size: 10mb
-![](https://photos.app.goo.gl/GHptoTB1TDpEsb247)
+![](https://lh3.googleusercontent.com/sdWXPrIq58CKTGQgXF9UrLPCFzRhf_gsjBgwWGYIcIU71A7KsUNV98mUB3kz7QeV8j-HlFBdRk8RKDHPCInlpcoPoEAXJ0dLhOgcCZEqnQZKpBzDJGiThGAYek322e6bAjxzi3PgYA)
 
 ### Conclusion
 I have checked the major functions takes the most time in this project are **butteraugli::Convolution(butteraugli::Image<float> const&, std::vector<float>**, **std::vector<float, std::allocator<float>> const&, float)** and **std::vector<float, std::allocator<float> >::operator[](unsigned long)** in both the Aarch64 and x86_64 architectures. Therefore, If I optimize those functions, this project can be faster in both Aarch64 and x86_64 architecture.
