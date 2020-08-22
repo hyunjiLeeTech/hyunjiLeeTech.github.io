@@ -18,8 +18,8 @@ As one of the advantages of open source is many people can contribute to the ope
 
 Chromium is a free and open-source web browser project developed by Google. This project includes Chromium and Chromium OS. It uses a BSD license (Berkeley Software Distribution license) that users are available to modify, distribute, and commercially use it but they cannot use the trademark and hold liable. If they want to use this open-source software, they must include copyright and license. They provide the official Chromium GitHub mirror repository (https://github.com/chromium/chromium). There are 851,825 commits, 7 branches, and 17,606 releases. It displays there are infinite contributors because it is GitHub’s Linux Kernel mirror.
 
-<a href="./img/chromium-bug.png" data-lightbox="Chromium" data-title="chromium-bug.png">
-  <img src="chromium-bug.png" title="Chromium Bug">
+<a href="https://drive.google.com/file/d/1itngRSgHC5R7nGNJ3T5csWossa-EYT7p/view?usp=sharing" data-lightbox="Chromium" data-title="chromium-bug.png">
+  <img src="https://drive.google.com/file/d/1itngRSgHC5R7nGNJ3T5csWossa-EYT7p/view?usp=sharing" title="Chromium Bug">
 </a>
 
 Chromium gets issues through a website https://bugs.chromium.org/p/chromium/issues/list. When you click the “New Issue” button, it asks you to log in Google account. After you have explained a general description of the issue, you can submit your issue. Chromium team will review your issue and if it needs to fix, they will approve to fix the patch. Chromium aims to respond within 24 hours of receipt. When they accept the issue, one of 44 committers will review the code.
@@ -31,8 +31,8 @@ The advantage of this issuing is people can easily use it. If they have a Google
 
 Mozilla Firefox is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, Mozilla Corporation. It uses MPL 2.0 license (Mozilla Public License 2.0) that users are available to modify, distribute, and commercially use it. Also, they can place a warranty and use patent claims. However, they cannot use the trademark and held liable. They must include copyright, license, and original. Furthermore, they must disclose the source.
 
-<a href="./img/Mozilla.PNG" data-lightbox="BugZilla" data-title="BugZilla">
-  <img src="./img/Mozilla.PNG" title="BugZilla">
+<a href="https://drive.google.com/file/d/1D87778Y2BeLf8C04jGKlVSIq5nv9uTh6/view?usp=sharing" data-lightbox="BugZilla" data-title="BugZilla">
+  <img src="https://drive.google.com/file/d/1D87778Y2BeLf8C04jGKlVSIq5nv9uTh6/view?usp=sharing" title="BugZilla">
 </a>
 
 Mozilla accepts patches from contributors through Bugzilla (https://bugzilla.mozilla.org/home
