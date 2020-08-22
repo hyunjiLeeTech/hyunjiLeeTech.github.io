@@ -3,8 +3,8 @@ layout: post
 title: "Open Source Softwares and Patch Process"
 date: 2020-01-13 10:39:10
 author: Jane Hyunji Lee
-categories: "Open Source Software"
-tags: "Open Source Software"
+categories: 'Open Source Software'
+tags: 'Open Source Software'
 ---
 
 ### What is Open Source 
@@ -41,8 +41,16 @@ The advantage of this process is the efficiency of usage. Users can look at all 
 - Mozilla Firefox: https://bugzilla.mozilla.org/show_bug.cgi?id=1598201
 
 # Websites I looked up
-- [https://bugs.chromium.org/p/chromium/issues/][Chromium Bugs]
-- [https://www.chromium.org/][Chromium]
-- [https://tldrlegal.com/][Licences]
-- [https://bugzilla.mozilla.org/home][Bugzilla]
-- [https://wiki.mozilla.org/][Mozilla Wiki]
+- [Chromium Bugs][Chromium Bugs]
+- [Chromium][Chromium]
+- [Licences][Licences]
+- [Bugzilla][Bugzilla]
+- [Mozilla Wiki][Mozilla Wiki]
+
+[Chromium Bugs]: https://bugs.chromium.org/p/chromium/issues/
+[Chromium]: https://www.chromium.org/
+[Licences]: https://tldrlegal.com/
+[Bugzilla]: https://bugzilla.mozilla.org/home]
+[Mozilla Wiki]: https://wiki.mozilla.org/
+
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
