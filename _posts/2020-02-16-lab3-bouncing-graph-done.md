@@ -30,7 +30,7 @@ The option my group choose is bouncing graphic. The instructions of this option 
 
 ##### 1.2. Flow Chart
 
-![lab3-flow chart v3](https://lh3.googleusercontent.com/8PZTSkZG93GKQuEfHP5EJnFe1Djnw6S_Ydog3lLpisOsk6be41C9y-HIMPEs27O-frhSZ3VOZQqWGi8X8ylULlro5H7xWuv0W3NiiNi-Wz4EO2PeHC_dzzzAVTsFDjyURwx2w2P6cw)
+![lab3-flow chart v3](https://lh3.googleusercontent.com/8PZTSkZG93GKQuEfHP5EJnFe1Djnw6S_Ydog3lLpisOsk6be41C9y-HIMPEs27O-frhSZ3VOZQqWGi8X8ylULlro5H7xWuv0W3NiiNi-Wz4EO2PeHC_dzzzAVTsFDjyURwx2w2P6cw) <!-- .element height="50%" width="50%" -->
 
 #### 2. Implementation 
 ##### 2.1. Define Descriptive Constants
