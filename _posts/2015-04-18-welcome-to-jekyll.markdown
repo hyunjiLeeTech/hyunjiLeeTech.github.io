@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-04-18 08:43:59
@@ -71,4 +71,4 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [highlight]:   https://highlightjs.org/
 [lightbox]:    http://lokeshdhakar.com/projects/lightbox2/
 [jekyll-archive]: https://github.com/jekyll/jekyll-archives
-[liquid]: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
+[liquid]: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers -->
